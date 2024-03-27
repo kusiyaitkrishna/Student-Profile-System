@@ -1,0 +1,11 @@
+1,krishna,kusiyait,admin
+2,Ganesh Yadav,ganesh,student
+3,RakeshSah,rakesh,student
+5,Satru Sah,satru,student
+6,Sekhar Yadav,sekhar$#123,student
+7,Ramesh Singh,ramesh$#12,student
+8,Rahul Shrestha,rahul@123,student
+9,Ramya Bhandari,bhandari$#123,student
+10,Merina Dahal,merina@123,student
+11,Abdul Rashid,Rashid123,student
+12,Nirdesh Sah,sahnir@123,student

@@ -1,0 +1,3 @@
+5,Video games
+4,Studying , Travelling ,Cooking
+3,Designing , Playing chess,Drawing

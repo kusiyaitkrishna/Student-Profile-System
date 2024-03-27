@@ -1,0 +1,7 @@
+5,Maths:90.0,Physics:89.0,English:88.0,Nepali:85.0,Computer:85.0,Chemistry:90.0
+3,Maths:99.0,Physics:96.0,English:98.0,Nepali:99.0,Computer:95.0,Chemistry:90.0
+11,Maths:90.0,Physics:56.0,English:87.0,Nepali:55.0,Computer:92.0,Chemistry:12.0
+10,Maths:100.0,Physics:99.0,English:98.0,Nepali:76.0,Computer:77.0,Chemistry:76.0
+6,Maths:87.0,Physics:88.0,English:65.0,Nepali:45.0,Computer:66.0,Chemistry:56.0
+12,Maths:93.0,Physics:90.0,English:89.0,Nepali:88.0,Computer:54.0,Chemistry:66.0
+9,Maths:66.0,Physics:65.0,English:44.0,Nepali:56.0,Computer:56.0,Chemistry:54.0
