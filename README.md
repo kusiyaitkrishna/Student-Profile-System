@@ -71,3 +71,33 @@ ECA activities are stored in a text file (`eca.txt`) with student IDs and a list
 - **Error Handling**: Add more comprehensive error handling (try-except blocks) to gracefully handle issues like missing files or invalid inputs.
 - **Advanced Insights**: Incorporate calculations within the admin dashboard to provide insights on class performance, ECA trends, etc.
 - **GUI**: Build a graphical user interface using libraries like Tkinter, PyQt, or web technologies for a more user-friendly experience.
+# How to Use Guide
+
+## Run the Application:
+
+1. Make sure you have Python installed.
+2. From your terminal (or command prompt), navigate to your project directory.
+3. Execute the command: `python main.py`
+
+## Login:
+
+- The system will prompt you for a username and password.
+- Use existing admin credentials or register a new admin user.
+
+## Admin Tasks:
+
+Select options from the admin dashboard to:
+
+- Register new students.
+- Modify student information.
+- Add or edit grades.
+- View ECA activities.
+- Generate student reports.
+
+## Student Tasks:
+
+Login with student credentials. Use the student dashboard to:
+
+- Update your profile.
+- View your grades.
+- View and potentially add ECA activities.
